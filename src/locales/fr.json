@@ -1,0 +1,352 @@
+
+{
+    "header": {
+        "nav": {
+            "process": "Processus",
+            "platforms": "Plateformes",
+            "features": "Fonctionnalités"
+        },
+        "cta": "Lancez-vous"
+    },
+    "hero": {
+        "badge": "Jusqu'à 75% de temps de développement économisé",
+        "title": {
+            "line1": "Simplifying Cloud",
+            "line2": "Amplifying Business"
+        },
+        "description": "Nubitech offre une solution complète pour le déploiement, la gestion et la scalabilité de vos applications. Simple, rapide et puissant.",
+        "highlights": [
+            "Domaine gratuit inclus",
+            "Migration gratuite",
+            "Support 24/7"
+        ],
+        "cta": {
+            "primary": "Commencer maintenant",
+            "secondary": "Voir la démo"
+        },
+        "guarantee": "Garantie satisfait ou remboursé 30 jours"
+    },
+    "howItWorks": {
+        "title": "De l'idée à la production en 4 étapes",
+        "description": "Déployer vos applications n'a jamais été aussi simple et rapide."
+    },
+    "features": {
+        "title": "Notre offre",
+        "description": "Tout ce dont vous avez besoin pour construire et déployer des applications web performantes.",
+        "stats": [
+            { "icon": "Clock", "label": "Lancement", "value": "< 5min" },
+            { "icon": "CheckCircle", "label": "Success Card", "value": "99.8%" },
+            { "icon": "Lock", "label": "Fiabilité", "value": "100%" },
+            { "icon": "User", "label": "Utilisateur", "value": "24/7" },
+            { "icon": "TrendingUp", "label": "Plus Scale", "value": "∞" },
+            { "icon": "Zap", "label": "Économique", "value": "< 100ms" }
+        ],
+        "list": [
+            {
+                "icon": "Zap",
+                "title": "Déploiement ultra-rapide",
+                "description": "Passez de l'idée à la production en quelques minutes grâce à notre pipeline CI/CD optimisé.",
+                "details": [
+                    { "label": "Jusqu'à processing", "value": "95%" },
+                    { "label": "Deploy success", "value": "Deploy" }
+                ]
+            },
+            {
+                "icon": "ShieldCheck",
+                "title": "Sécurité Renforcée",
+                "description": "Protection DDoS, certificats SSL automatiques et surveillance continue de la sécurité.",
+                "details": [
+                    { "label": "Frameworks", "value": "20+" },
+                    { "label": "Languages", "value": "All" }
+                ]
+            },
+            {
+                "icon": "BarChart",
+                "title": "Scalabilité Automatique",
+                "description": "Votre application s'adapte au trafic sans aucune intervention manuelle de votre part.",
+                "details": [
+                    { "label": "Trends Unis", "value": "∞" }
+                ]
+            },
+            {
+                "icon": "Settings",
+                "title": "Configuration Simplifiée",
+                "description": "Une interface intuitive pour gérer tous les aspects de votre infrastructure.",
+                "details": []
+            },
+            {
+                "icon": "Layers",
+                "title": "Stack Technologique Moderne",
+                "description": "Support natif pour React, Next.js, Vite et les frameworks les plus populaires.",
+                "details": []
+            },
+            {
+                "icon": "Code",
+                "title": "Environnements de Dev",
+                "description": "Créez des environnements de pré-production pour chaque pull request, automatiquement.",
+                "details": []
+            }
+        ]
+    },
+    "useCases": {
+        "title": "Une plateforme pour chaque projet",
+        "description": "Nubitech s'adapte à vos besoins, que vous soyez un développeur solo ou une grande entreprise.",
+        "items": [
+            {
+                "title": "Déployez vos applications",
+                "stats": [
+                    { "icon": "Code", "label": "Git", "value": "100%" },
+                    { "icon": "Zap", "label": "< 5min", "value": "Déploi" },
+                    { "icon": "Infinity", "label": "Illimité", "value": "Projet" }
+                ],
+                "segmentIcon": "GitBranch",
+                "segmentTitle": "Développeurs, startup, PME",
+                "description": "Concentrez-vous sur votre code, pas sur l'infrastructure. Déployez en quelques secondes et profitez d'environnements de prévisualisation pour chaque pull request."
+            },
+            {
+                "title": "Déployez vos CMS/ERP en un clic",
+                "stats": [
+                    { "icon": "Rocket", "label": "Déploiement", "value": "< 3min" },
+                    { "icon": "Database", "label": "WordPress", "value": "✓ Prêt" },
+                    { "icon": "Settings", "label": "Odoo ERP", "value": "✓ Prêt" }
+                ],
+                "segmentIcon": "Settings",
+                "segmentTitle": "CMS & ERP",
+                "description": "Déployez WordPress pour vos sites web et Odoo pour votre gestion d'entreprise en quelques clics. Templates préconfigurés, bases de données incluses, prêt à l'emploi."
+            },
+            {
+                "title": "Croissance Scalable",
+                "stats": [
+                    { "icon": "Users", "label": "Clients", "value": "5 M+" },
+                    { "icon": "ShieldCheck", "label": "SLA", "value": "100%" },
+                    { "icon": "Clock", "label": "Uptime", "value": "99.9%" }
+                ],
+                "segmentIcon": "Rocket",
+                "segmentTitle": "Scalabilité",
+                "description": "Passez de l'idée au produit viable rapidement. Notre plateforme évolue avec vous, des premiers utilisateurs à des millions, sans prise de tête."
+            }
+        ],
+        "learnMore": "En savoir plus"
+    },
+    "stats": {
+        "items": [
+            { "icon": "Users", "value": 1500, "label": "Utilisateurs Actifs" },
+            { "icon": "FolderGit2", "value": 5000, "label": "Projets Déployés" },
+            { "icon": "Cpu", "value": 99.9, "label": "Uptime Garanti (%)", "isFloat": true },
+            { "icon": "Smile", "value": 100, "label": "Satisfaction Client (%)" }
+        ]
+    },
+    "pricing": {
+        "title": "Une tarification simple et transparente",
+        "description": "Choisissez le plan qui correspond à vos besoins. Pas de frais cachés, jamais.",
+        "billing": {
+            "monthly": "Mensuel",
+            "yearly": "Annuel",
+            "save": "Économisez 20%",
+            "month": "mois",
+            "year": "an",
+            "ariaLabel": "Changer la période de facturation"
+        },
+        "popular": "Le plus populaire",
+        "choosePlan": "Choisir",
+        "plans": [
+            {
+                "name": "Découverte",
+                "description": "Idéal pour les projets personnels et les petites équipes qui débutent.",
+                "price": { "monthly": 19, "yearly": 15 },
+                "features": [
+                    "Jusqu'à 2 projets",
+                    "Déploiements illimités",
+                    "Bande passante 50 Go",
+                    "Support par email"
+                ],
+                "isPopular": false
+            },
+            {
+                "name": "Pro",
+                "description": "Pour les équipes et les projets en croissance qui ont besoin de plus.",
+                "price": { "monthly": 49, "yearly": 40 },
+                "features": [
+                    "Jusqu'à 10 projets",
+                    "Domaines personnalisés",
+                    "Scalabilité automatique",
+                    "Support prioritaire",
+                    "Analytiques avancées"
+                ],
+                "isPopular": true
+            },
+            {
+                "name": "Entreprise",
+                "description": "La solution complète pour les grandes entreprises et les besoins critiques.",
+                "price": { "monthly": 99, "yearly": 85 },
+                "features": [
+                    "Projets illimités",
+                    "Equipe illimitée",
+                    "SSO & Sécurité avancée",
+                    "Support dédié 24/7",
+                    "SLA Garanti"
+                ],
+                "isPopular": false
+            }
+        ]
+    },
+    "testimonials": {
+        "title": "Ils nous font confiance",
+        "description": "Découvrez pourquoi les meilleures équipes choisissent Nubitech.",
+        "leave_testimonial_cta": "Laisser un témoignage",
+        "items": [
+            {
+                "name": "Sarah L.",
+                "role": "Développeuse Full-Stack",
+                "avatar": "https://picsum.photos/seed/sarah/80/80",
+                "testimonial": "Nubitech a transformé notre flux de travail. Le déploiement continu est un jeu d'enfant et la performance est incroyable. Nous avons réduit nos temps de mise en production de 70% !",
+                "rating": 5
+            },
+            {
+                "name": "Marc D.",
+                "role": "Chef de projet Tech",
+                "avatar": "https://picsum.photos/seed/mark/80/80",
+                "testimonial": "La simplicité de l'interface et la puissance des fonctionnalités sous-jacentes sont impressionnantes. Mon équipe est plus productive et concentrée sur le code, pas sur l'infra.",
+                "rating": 5
+            },
+            {
+                "name": "Juliette M.",
+                "role": "Fondatrice de Startup",
+                "avatar": "https://picsum.photos/seed/juliette/80/80",
+                "testimonial": "En tant que startup, la scalabilité automatique de Nubitech nous a permis de gérer des pics de trafic inattendus sans transpirer. C'est un vrai game-changer pour nous.",
+                "rating": 4
+            }
+        ],
+        "form": {
+            "title": "Laisser un témoignage",
+            "description": "Partagez votre expérience avec Nubitech. Vos retours nous aident à nous améliorer.",
+            "name": {
+                "label": "Nom",
+                "placeholder": "Votre nom complet"
+            },
+            "role": {
+                "label": "Rôle / Entreprise",
+                "placeholder": "ex: CEO chez MaBoite"
+            },
+            "message": {
+                "label": "Votre témoignage",
+                "placeholder": "Décrivez votre expérience..."
+            },
+            "rating": {
+                "label": "Votre note"
+            },
+            "submit": "Envoyer le témoignage",
+            "cancel": "Annuler",
+            "errors": {
+                "name": "Le nom doit faire au moins 2 caractères.",
+                "role": "Le rôle doit faire au moins 2 caractères.",
+                "testimonial": "Le témoignage doit faire au moins 10 caractères.",
+                "rating": "Veuillez attribuer une note."
+            }
+        },
+        "toast": {
+            "title": "Merci !",
+            "description": "Votre témoignage a été envoyé avec succès."
+        }
+    },
+    "faq": {
+        "title": "Questions fréquentes",
+        "description": "Vous avez des questions ? Nous avons les réponses.",
+        "questions": [
+            {
+                "question": "Quels frameworks sont supportés par Nubitech ?",
+                "answer": "Nubitech supporte nativement tous les frameworks JavaScript modernes : Next.js, React, Vue, Svelte, Astro, et bien d'autres. Nous supportons également les sites statiques et les applications backend Node.js."
+            },
+            {
+                "question": "Comment fonctionne la scalabilité automatique ?",
+                "answer": "Notre infrastructure surveille en temps réel le trafic de votre application. Lorsque la charge augmente, nous provisionnons automatiquement de nouvelles ressources pour maintenir des performances optimales, et nous les réduisons lorsque le trafic diminue pour optimiser les coûts."
+            },
+            {
+                "question": "Puis-je utiliser mon propre nom de domaine ?",
+                "answer": "Oui, absolument. Sur tous nos plans payants, vous pouvez facilement connecter votre propre nom de domaine. Nous fournissons également un certificat SSL gratuit et automatique pour chaque domaine personnalisé."
+            },
+            {
+                "question": "Quel type de support client offrez-vous ?",
+                "answer": "Nous offrons un support par email pour le plan Découverte. Le plan Pro bénéficie d'un support prioritaire par email et chat. Le plan Entreprise inclut un support dédié 24/7 avec un gestionnaire de compte personnel et des SLAs garantis."
+            },
+            {
+                "question": "La sécurité est-elle une priorité ?",
+                "answer": "La sécurité est au coeur de notre plateforme. Toutes les applications bénéficient d'une protection DDoS, de pare-feux managés, et d'une surveillance continue. Nous effectuons des audits de sécurité réguliers pour garantir la protection de vos données."
+            }
+        ]
+    },
+    "blog": {
+        "title": "Depuis notre Blog",
+        "description": "Actualités, articles et analyses de l'équipe Nubitech.",
+        "readMore": "Lire la suite"
+    },
+    "contact": {
+        "title": "Contactez-nous",
+        "description": "Des questions ou des remarques ? Écrivez-nous un message !",
+        "form": {
+            "name": {
+                "label": "Nom",
+                "placeholder": "Votre nom complet"
+            },
+            "email": {
+                "label": "Email",
+                "placeholder": "Votre adresse e-mail"
+            },
+            "message": {
+                "label": "Message",
+                "placeholder": "Votre message..."
+            },
+            "submit": "Envoyer le message",
+            "submitting": "Envoi en cours...",
+            "errors": {
+                "name": "Le nom doit faire au moins 2 caractères.",
+                "email": "Veuillez entrer une adresse email valide.",
+                "message": "Le message doit faire au moins 10 caractères."
+            }
+        },
+        "toast": {
+            "title": "Message envoyé !",
+            "description": "Nous avons bien reçu votre message et nous vous répondrons rapidement.",
+            "error": {
+                "title": "Erreur",
+                "description": "Une erreur est survenue lors de l'envoi de votre message."
+            }
+        }
+    },
+    "footer": {
+        "copyright": "© {{year}} NUBITECH PLATFORM. Tous droits réservés.",
+        "tagline": "Simplifying Cloud, Amplifying Business",
+        "links": [
+            {
+                "title": "Plateforme",
+                "links": [
+                    { "label": "Processus", "href": "#process" },
+                    { "label": "Plateformes", "href": "#platforms" },
+                    { "label": "Fonctionnalités", "href": "#features" },
+                    { "label": "Témoignages", "href": "#testimonials" },
+                    { "label": "Blog", "href": "#blog" },
+                    { "label": "Tarifs", "href": "#pricing" }
+                ]
+            },
+            {
+                "title": "Entreprise",
+                "links": [
+                    { "label": "Support", "href": "#" },
+                    { "label": "Connexion", "href": "" }
+                ]
+            },
+            {
+                "title": "Démarrer",
+                "links": [
+                    { "label": "Inscription gratuite", "href": "" },
+                    { "label": "Demander une démo", "href": "" }
+                ]
+            }
+        ]
+    },
+    "theme": {
+        "toggle": "Changer de thème",
+        "light": "Clair",
+        "dark": "Sombre"
+    }
+}
