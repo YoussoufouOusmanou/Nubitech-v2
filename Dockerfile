@@ -1,14 +1,11 @@
-syntax=docker/dockerfile:1.4
-
 # === STAGE 1: Dépendances ===
 FROM node:20-alpine AS deps
 WORKDIR /app
 
 COPY package.json package-lock.json* ./
 
-# Utiliser le cache BuildKit pour npm
-RUN --mount=type=cache,target=/root/.npm \
-    npm ci --prefer-offline
+# Installer les dépendances (sans cache mount BuildKit)
+RUN npm ci --prefer-offline
 
 # === STAGE 2: Build ===
 FROM node:20-alpine AS builder
